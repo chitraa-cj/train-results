@@ -1,0 +1,13 @@
+=========================================
+         EXECUTION TIME SUMMARY          
+=========================================
+Project:      Train Inspection (30 km/h)
+Hardware:     NVIDIA Jetson Orin Nano
+Date:         $(date)
+-----------------------------------------
+Total Frames Processed: 3411
+Overall Time Utilized:  803.746 seconds
+Overall Time (Minutes): 13.3958 minutes
+Average Latency:        235.634 ms
+Effective Throughput:   4.24388 FPS
+=========================================
