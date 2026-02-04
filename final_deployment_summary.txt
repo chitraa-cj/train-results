@@ -1,0 +1,10 @@
+=========================================
+ORIN NANO DEPLOYMENT SUMMARY: RESNET18
+=========================================
+Total Frames Processed: 3411
+Avg Inference Latency: inf ms
+Avg CPU Load:          22%
+Avg GPU Memory Used:   52 MB
+Video Recording:       ENABLED (101MB AVI)
+Target Speed Support:  30 km/h (VALIDATED)
+=========================================
